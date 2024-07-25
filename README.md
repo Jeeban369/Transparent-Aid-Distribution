@@ -16,5 +16,5 @@ A decentralized platform for transparent tracking of government aid distribution
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/transparent-aid-tracker.git
-   cd transparent-aid-tracker
+   git clone https://github.com/your-username/Transparent-Aid-Distribution.git
+   cd Transparent-Aid-Distribution
