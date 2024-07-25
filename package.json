@@ -1,0 +1,16 @@
+{
+    "name": "transparent-aid-tracker",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "cd client && npm start",
+        "test": "truffle test"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0",
+        "react-router-dom": "^5.2.0",
+        "truffle": "^5.4.0",
+        "web3": "^1.5.0"
+    }
+}
